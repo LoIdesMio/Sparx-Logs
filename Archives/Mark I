@@ -10,7 +10,7 @@ function createSparxLogs() {
   for (let i = 0; i < columns; i++) {
     var qAmount = questions[i]
     for (let x = 0; x < qAmount; x++) {
-      body.appendParagraph(i+1+alphabet[x]+ " ");
+      body.appendParagraph(i+1+alphabet[x]);
     }
     body.appendParagraph("\n");
   }
