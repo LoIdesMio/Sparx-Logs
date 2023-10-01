@@ -22,7 +22,7 @@ function createSparxLogs() {
 }
 
 // New in Mark II is you longer need to put in the number you just put in the letter it goes up to!
-
+// + Added space after bookmark check.
 
 // i is  the current number of column there is 6 in total in this example
 // total number of questions is questions[i]
